@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -14,7 +13,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-=======
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -65,4 +63,3 @@ Thumbs.db
 *.mov
 *.wmv
 
->>>>>>> 59e2452ecc20dbd7dd516689d1854fddadcc70e4
